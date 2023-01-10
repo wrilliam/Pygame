@@ -1,2 +1,4 @@
 # Pygame
-Some basic games in Python.
+Some basic games.
+
+Language: Python
